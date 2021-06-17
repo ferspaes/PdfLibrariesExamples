@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ceTe.DynamicPDF.HtmlConverter.NET" Version="1.6.0" />
+    <PackageReference Include="Spire.PDF" Version="7.6.1" />
   </ItemGroup>
 
   <ItemGroup>

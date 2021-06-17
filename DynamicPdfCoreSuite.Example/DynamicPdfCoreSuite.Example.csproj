@@ -6,11 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ceTe.DynamicPDF.HtmlConverter.NET" Version="1.6.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\IText7.Example\IText7.Example.csproj" />
+    <PackageReference Include="ceTe.DynamicPDF.CoreSuite.NET" Version="11.12.0" />
   </ItemGroup>
 
 </Project>
